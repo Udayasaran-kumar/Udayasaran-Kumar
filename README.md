@@ -40,7 +40,7 @@ Vanilla JavaScript calculator clone mimicking the look and feel of classic Casio
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/your-linkedin-id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/udayasaran-kumar-s-93822b244)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat)](https://github.com/Udayasaran-kumar)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ssaran3091998@gmail.com)
 
