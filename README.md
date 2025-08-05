@@ -19,7 +19,7 @@ I'm a passionate developer who enjoys turning ideas into scalable web and mobile
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Udayasaran-Kumar" alt="Udayasaran-Kumar" />
 </p>
----
+
 
 ## 📱 Featured Projects
 
