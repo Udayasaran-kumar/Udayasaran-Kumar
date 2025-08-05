@@ -15,7 +15,10 @@ I'm a passionate developer who enjoys turning ideas into scalable web and mobile
 ![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
-
+---
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Udayasaran-Kumar" alt="Udayasaran-Kumar" />
+</p>
 ---
 
 ## 📱 Featured Projects
