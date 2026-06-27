@@ -1,54 +1,98 @@
 # 👋 Hi, I'm Udayasaran Kumar S
 
-### 🚀 Fullstack Developer | 💙 React Native Enthusiast | 🔥 Firebase Lover
+## 🚀 React Native Developer | Full Stack Developer | Mobile App Engineer
 
-I'm a passionate developer who enjoys turning ideas into scalable web and mobile experiences. I specialize in React Native and fullstack development using Firebase, React, and modern tools that enhance productivity and performance.
+I'm a React Native Developer with 2+ years of professional experience building production-grade cross-platform mobile applications using React Native, Expo, TypeScript, React.js, GraphQL, Firebase, and REST APIs.
 
----
-
-## 🧰 Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)
----
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Udayasaran-Kumar" alt="Udayasaran-Kumar" />
-</p>
-
-
-## 📱 Featured Projects
-
-### 🔹 [Quick Commerce App](https://github.com/Udayasaran-kumar/capstone-quick-commerce-app)
-React Native e-commerce app with Firebase Authentication, product search, filtering, and modern UI/UX.
-
-### 🔹 [Social Media App](https://github.com/Udayasaran-kumar/TEAM-GROOT)
-A feature-rich social media platform built with React, Chakra UI, and Firebase — includes analytics and real-time updates.
-
-### 🔹 [Casio Clone](https://github.com/demonknight119/casioClone)
-Vanilla JavaScript calculator clone mimicking the look and feel of classic Casio devices.
+I enjoy building scalable, high-performance mobile applications, solving real-world problems, and delivering clean, maintainable code. I'm currently open to exciting remote opportunities with global engineering teams.
 
 ---
 
-## 📊 GitHub Stats
+# 💼 About Me
 
-![Udayasaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udayasaran-kumar&show_icons=true&theme=react)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasaran-kumar&layout=compact&theme=react)
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/udayasaran-kumar-s-93822b244)
-[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&style=flat)](https://github.com/Udayasaran-kumar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ssaran3091998@gmail.com)
-
-![visitors](https://komarev.com/ghpvc/?username=Udayasaran-kumar&color=blue)
+- 📱 React Native Developer (2+ Years Experience)
+- ⚛️ React.js & TypeScript Developer
+- 🔥 Firebase & GraphQL Developer
+- 🌍 Open to Remote Opportunities
+- 🚀 Passionate about Mobile Architecture & Performance Optimization
+- 🤝 Love building scalable products with modern technologies
 
 ---
 
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+# 🛠️ Tech Stack
+
+### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+### Backend & APIs
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+---
+
+# 🚀 Featured Projects
+
+## 📝 MINNOTE
+Production-grade note management platform built with React Native, TypeScript, GraphQL, Prisma, MongoDB, and Firebase.
+
+## 🏥 NeuDoc IQ
+Modern healthcare web platform built using Next.js, React.js, TypeScript, and Tailwind CSS.
+
+## 💳 Lendgage (Spark)
+Payment automation platform with Razorpay integration, Webhooks, Firebase, AWS S3, AWS SNS, Prisma, React.js, and Node.js.
+
+## 🤖 InstaGrade
+AI-powered exam grading platform built using React.js, FastAPI, Python, Azure AI, OpenAI, and Cosmos DB.
+
+---
+
+# 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udayasaran-kumar&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasaran-kumar&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Udayasaran-kumar&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Udayasaran-kumar&theme=tokyonight&no-frame=true&row=1)
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/udayasaran-kumar-s-93822b244
+- 💻 GitHub: https://github.com/Udayasaran-kumar
+- 📧 Email: ssaran3091998@gmail.com
+
+---
+
+## 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=Udayasaran-kumar&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+> ⭐ Building scalable mobile applications with React Native, TypeScript, GraphQL, Firebase, and modern technologies.
