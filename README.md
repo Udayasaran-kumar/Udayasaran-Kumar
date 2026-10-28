@@ -50,13 +50,7 @@ React and Express community app. Auth is JWT. The user store is in memory. Other
 
 ## Engineering Interests
 
-Evidence-checked AI workflows, API and auth design, and mobile product structure. Professional work has also included document processing and billing APIs. That code stays in the repositories where it was written.
-
-## Open Source
-
-Merged pull requests on [neubooks-backend](https://github.com/I-Amarjeet/neubooks-backend), [neudociq-studio](https://github.com/I-Amarjeet/neudociq-studio), [neudociq-core](https://github.com/I-Amarjeet/neudociq-core), and [neudociq-landing](https://github.com/I-Amarjeet/neudociq-landing). I do not claim ownership of those repositories.
-
-A search on 28 October 2026 returned 33 pull requests authored by `Udayasaran-kumar`. One is on `firstprojectmanagement`. The rest are on the repositories above. Titles include bill scanning, GST tax line names, vendors and expenses, dashboard pagination, mobile auth tokens, company logo uploads, and benchmark or extraction UI. Do not inflate this into ownership or into metrics that were not in those titles.
+Evidence-checked AI workflows, API and auth design, and mobile product structure.
 
 ## Connect
 
