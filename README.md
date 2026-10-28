@@ -1,98 +1,66 @@
-# 👋 Hi, I'm Udayasaran Kumar S
+# Hi, I'm Udayasaran Kumar
 
-## 🚀 React Native Developer | Full Stack Developer | Mobile App Engineer
+Software Engineer. I build TypeScript services, React products, and React Native apps, including evidence-checked investigation and repair agents.
 
-I'm a React Native Developer with 2+ years of professional experience building production-grade cross-platform mobile applications using React Native, Expo, TypeScript, React.js, GraphQL, Firebase, and REST APIs.
+## What I Build
 
-I enjoy building scalable, high-performance mobile applications, solving real-world problems, and delivering clean, maintainable code. I'm currently open to exciting remote opportunities with global engineering teams.
+I care about software that can be checked. A conclusion should point at evidence, and a fix should be shown against the original failure. The public work below is a TypeScript repair agent, an incident-investigation agent, a read-only pipeline investigator, a local document reader, a live portfolio, and a collaborative React and Express app.
 
----
+## Featured Projects
 
-# 💼 About Me
+### [DevPilot AI](https://github.com/Udayasaran-kumar/devpilot-ai)
 
-- 📱 React Native Developer (2+ Years Experience)
-- ⚛️ React.js & TypeScript Developer
-- 🔥 Firebase & GraphQL Developer
-- 🌍 Open to Remote Opportunities
-- 🚀 Passionate about Mobile Architecture & Performance Optimization
-- 🤝 Love building scalable products with modern technologies
+Investigates a failing test or log and accepts a patch only after that same failure passes in an isolated Git worktree.
 
----
+The interesting part is the gate: a green command is not enough. The original failure has to be shown as gone.
 
-# 🛠️ Tech Stack
+### [TraceRoot](https://github.com/Udayasaran-kumar/traceroot-agent)
 
-### Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo)
+Keeps an explicit investigation state, compares hypotheses, and writes a root-cause report with a verification result.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+The interesting part is the loop: evidence, objective, next action, then a checked hypothesis.
 
-### Backend & APIs
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+### [Orbit Guardian](https://github.com/Udayasaran-kumar/orbit-guardian)
 
-### Database
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
+Connects a failed GitLab pipeline to the merge request and work item around it.
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+The interesting part is the boundary. The default mode is read-only, and a file changes only when the operator passes `--apply`.
 
----
+### [DocLens](https://github.com/Udayasaran-kumar/doclens)
 
-# 🚀 Featured Projects
+Gives a job seeker a first pass of an offer letter: summary, dates, money, actions, and people.
 
-## 📝 MINNOTE
-Production-grade note management platform built with React Native, TypeScript, GraphQL, Prisma, MongoDB, and Firebase.
+The interesting part is the refusal. The reader fills a field only from text it can support. There is no model API and no account.
 
-## 🏥 NeuDoc IQ
-Modern healthcare web platform built using Next.js, React.js, TypeScript, and Tailwind CSS.
+### [Portfolio](https://udayasaran-kumar.github.io/)
 
-## 💳 Lendgage (Spark)
-Payment automation platform with Razorpay integration, Webhooks, Firebase, AWS S3, AWS SNS, Prisma, React.js, and Node.js.
+Public site. Source: [Udayasaran-kumar.Github.io](https://github.com/Udayasaran-kumar/Udayasaran-kumar.Github.io).
 
-## 🤖 InstaGrade
-AI-powered exam grading platform built using React.js, FastAPI, Python, Azure AI, OpenAI, and Cosmos DB.
+### [CollabHub](https://github.com/Udayasaran-kumar/TEAM-GROOT)
 
----
+React and Express community app. Auth is JWT. The user store is in memory. Other contributors are in the git history.
 
-# 📈 GitHub Stats
+## Technical Focus
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Udayasaran-kumar&show_icons=true&theme=tokyonight)
+- Languages: TypeScript, JavaScript
+- UI: React, React Native
+- Services: Node.js, Express
+- Data and auth in the public apps: Firebase, JWT
+- Checks: unit and integration tests, GitHub Actions on DevPilot AI
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Udayasaran-kumar&layout=compact&theme=tokyonight)
+## Engineering Interests
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Udayasaran-kumar&theme=tokyonight)
+Evidence-checked AI workflows, API and auth design, and mobile product structure. Professional work has also included document processing and billing APIs. That code stays in the repositories where it was written.
 
----
+## Open Source
 
-# 🏆 GitHub Trophies
+Merged pull requests on [neubooks-backend](https://github.com/I-Amarjeet/neubooks-backend), [neudociq-studio](https://github.com/I-Amarjeet/neudociq-studio), [neudociq-core](https://github.com/I-Amarjeet/neudociq-core), and [neudociq-landing](https://github.com/I-Amarjeet/neudociq-landing). I do not claim ownership of those repositories.
 
-![](https://github-profile-trophy.vercel.app/?username=Udayasaran-kumar&theme=tokyonight&no-frame=true&row=1)
+A search on 28 October 2026 returned 33 pull requests authored by `Udayasaran-kumar`. One is on `firstprojectmanagement`. The rest are on the repositories above. Titles include bill scanning, GST tax line names, vendors and expenses, dashboard pagination, mobile auth tokens, company logo uploads, and benchmark or extraction UI. Do not inflate this into ownership or into metrics that were not in those titles.
 
----
+## Connect
 
-# 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/udayasaran-kumar-s-93822b244
-- 💻 GitHub: https://github.com/Udayasaran-kumar
-- 📧 Email: ssaran3091998@gmail.com
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=Udayasaran-kumar&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-> ⭐ Building scalable mobile applications with React Native, TypeScript, GraphQL, Firebase, and modern technologies.
+- Portfolio: https://udayasaran-kumar.github.io/
+- LinkedIn: https://linkedin.com/in/udayasaran-kumar-s-93822b244
+- Email: ssaran3091998@gmail.com
+- GitHub: https://github.com/Udayasaran-kumar
