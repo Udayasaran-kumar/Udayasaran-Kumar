@@ -1,5 +1,5 @@
 # Hi, I'm Udayasaran Kumar
-
+Software Engineer. TypeScript, Node.js, React, React Native, and evidence-checked AI workflows.
 Software Engineer. I build TypeScript services, React products, and React Native apps, including evidence-checked investigation and repair agents.
 
 ## What I Build
